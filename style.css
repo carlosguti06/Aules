@@ -1,0 +1,47 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    margin-left: 380px;
+    margin-right: 380px;
+    text-align: left;
+}
+
+.cap {
+    text-align: left;
+    padding: 3px;
+    margin:2rem;
+    border-radius: 5px;
+    margin-left: 650;
+    margin-right: 650;
+}
+
+
+.logos{
+    margin: 2rem;
+    padding: 3px;
+    border-radius: 5px;
+}
+
+.logos a{
+    text-decoration: none;
+}
+
+.cos {
+    margin: 2rem;
+    border-radius: 5px;
+    margin-left: 650;
+    margin-right: 650;
+}
+
+p {
+    font-size: 1rem;
+}
+
+.floater {
+    text-align: center;
+}
+
+
+
+
